@@ -1,0 +1,15 @@
+.img{
+    width: 250px;
+    height: 250px;
+    /* float:inherit ; */
+}
+.box{
+    width: 25%;
+    float: left;
+    /* float: right; */
+    /* clear: right; */
+    /* clear: left; */
+    /* clear: both; */
+}
+
+
